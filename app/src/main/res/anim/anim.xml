@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:shareInterpolator="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <alpha
+        android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration="2000" />
+
+    <!--    <scale-->
+    <!--    android:fromXScale="6"-->
+    <!--    android:toXScale="2"-->
+    <!--    android:fromYScale="9"-->
+    <!--    android:toYScale="6"-->
+    <!--    android:pivotX="50%"-->
+    <!--    android:pivotY="50%"-->
+    <!--    android:duration="700" />-->
+
+    <!--    <translate-->
+    <!--        android:fromXDelta="200%"-->
+    <!--        android:toXDelta="0%"-->
+    <!--        android:fromYDelta="200%"-->
+    <!--        android:toYDelta="0%"-->
+    <!--        android:duration="2000" />-->
+
+</set>
+
+    <!--<alpha-->
+    <!--android:fromAlpha="0"-->
+    <!--android:toAlpha="1"-->
+    <!--android:duration="2000" />-->
+
+    <!--<scale-->
+    <!--android:fromXScale="6"-->
+    <!--android:toXScale="2"-->
+    <!--android:fromYScale="9"-->
+    <!--android:toYScale="6"-->
+    <!--android:pivotX="50%"-->
+    <!--android:pivotY="50%"-->
+    <!--android:duration="700" />-->
+
+    <!--<translate-->
+    <!--android:fromXDelta="200%"-->
+    <!--android:toXDelta="0%"-->
+    <!--android:fromYDelta="200%"-->
+    <!--android:toYDelta="0%"-->
+    <!--android:duration="2000" />-->
+
+    <!--<set android:interpolator="@android:anim/decelerate_interpolator">-->
+    <!--    <scale-->
+    <!--        android:fromXScale="4"-->
+    <!--        android:toXScale="1"-->
+    <!--        android:fromYScale="3"-->
+    <!--        android:toYScale="1"-->
+    <!--        android:pivotX="50%"-->
+    <!--        android:pivotY="50%"-->
+    <!--        android:startOffset="700"-->
+    <!--        android:duration="2000"-->
+    <!--        android:fillBefore="false" />-->
+    <!--    <rotate-->
+    <!--        android:fromDegrees="0"-->
+    <!--        android:toDegrees="360"-->
+    <!--        android:pivotX="50%"-->
+    <!--        android:pivotY="50%"-->
+    <!--        android:startOffset="700"-->
+    <!--        android:duration="2000" />-->
+
+    <!--</set>-->
+    <!--</set>-->
